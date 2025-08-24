@@ -1,4 +1,3 @@
-const someValue = require("./app");
+const info = require("./fruits");
 
-console.log(someValue.g);
-console.log(someValue.pi);
+console.log(info);
